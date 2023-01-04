@@ -1,1 +1,2 @@
-Esto es una prueba para crear un repositorio
+Esto es una prueba para crear un repositorio modificando este arhivo
+para ver como funciona
