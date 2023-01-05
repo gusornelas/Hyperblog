@@ -1,4 +1,3 @@
-Esto es una prueba para crear un repositorio modificando este arhivo
-para ver como funciona
+Esto es una prueba para crear un repositorio
 
-Hablando de algo diferente
+Y otra prueba para ver si funciona
