@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Esto es una prueba para crear un repositorio modificando este arhivo
 para ver como trabaja y hace maravillas
+=======
+Esto es una prueba para crear un repositorio
+
+Y otra prueba para ver si funciona
+>>>>>>> cabecera
