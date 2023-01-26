@@ -1,2 +1,2 @@
-# Hyperblog
-This is a repository to work with Git Bash
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
